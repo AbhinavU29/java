@@ -1,0 +1,9 @@
+Java-   its a programming lang
+jvm-    java virtual machine (used to run program)
+jdk-    java development kit (write program)
+JRE-    Run  program with jvm with JRE (java runing environment)
+LTS-    long term support
+Jshell- JAva read-evalu-print-loop
+java version- java -version
+java complie- javac  file.java
+            - java file
