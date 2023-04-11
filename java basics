@@ -7,3 +7,8 @@ Jshell- JAva read-evalu-print-loop
 java version- java -version
 java complie- javac  file.java
             - java file
+/list -     list all commands 
+statement-  a completed command to execute the expression (eg. print("hello") )
+declaration statement -(eg. int a=5)
+;           -the line is complete
+=           -assign
