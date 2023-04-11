@@ -12,3 +12,10 @@ statement-  a completed command to execute the expression (eg. print("hello") )
 declaration statement -(eg. int a=5)
 ;           -the line is complete
 =           -assign
+
+
+------------------------------
+Scanner:-
+int= name.nextInt
+double= name.nextDouble
+String =nmae.nextString
