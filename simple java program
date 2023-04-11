@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+        String studentname="Abhinav";
+        char lastname=studentname.charAt(studentname.length() -1);    //lastname  (chatAt means a index number)
+        char Firstname=studentname.charAt(0);       //firstname
+        System.out.println(lastname);
+        System.out.println(Firstname);
+        System.out.println("student new age :");
+        Scanner input = new Scanner(System.in);       //input = means a name to input a value 
+        int studentage= input.nextInt();
+        System.out.println("student new age is :"+ studentage);
+
+}
+}
